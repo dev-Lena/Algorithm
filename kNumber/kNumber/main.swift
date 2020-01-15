@@ -30,5 +30,6 @@ func rearrangeArray(_ array:[Int], _ firstIndex: Int, _ lastIndex: Int) -> [Int]
     }
     
     return rearrangeDefaultArray.sorted(by: <)
+    
 }
 
