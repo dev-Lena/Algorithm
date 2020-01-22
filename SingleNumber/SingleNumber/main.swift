@@ -9,31 +9,19 @@
 import Foundation
 
 class Solution{
-    
-    func singleNumber(_ nums: [Int]) -> Int? {
-        var numbers = nums
-        let sortedNumbers = sort(nums)
-        return reduceDuplicates(sortedNumbers)
-    }
-    
-    func sort(_ nums: [Int]) -> [Int] {
-        var nums = nums
-        return nums.sorted()
-    }
-  
-    func reduceDuplicates(_ nums: [Int]) -> Int{
-        var numbers = nums
-        
-        
-        for number in 0...numbers.count-1 {
-            if number+1 <= numbers.count-1  {
-            if numbers[number] % numbers[number+1] == 0 {
-            numbers.remove(at: number)
-            numbers.remove(at: number+1)
-            
-                }
+        func singleNumber(_ nums: [Int]) -> Int {
+        let sortedNumbers = nums.sorted()
+        for number in 0..<nums.count-1{
+            if number == 0 && sortedNumbers[number] != sortedNumbers[number+1]{
+                return sortedNumbers[number]
+            }
+            if number+1 < nums.count-1 && sortedNumbers[number] != sortedNumbers[number+1] && sortedNumbers[number+1] != sortedNumbers[number+2]{
+                return sortedNumbers[number+1]
+            }
+            if number+1 == nums.count-1 {
+                return sortedNumbers[number+1]
             }
         }
-        return numbers[0]
+        return nums[0]
     }
 }
