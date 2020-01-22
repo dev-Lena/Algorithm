@@ -9,25 +9,15 @@
 import Foundation
 
 class Solution {
-
-    func split (_ n: Int) -> Double {
-            var stringN = String(n)
-            var splitedN = stringN.map({String($0)})
-            return powDigits(splitedN.map{Double($0)!})
-    }
-
-    func powDigits(_ splitedN: [Double]) -> Double {
-        var splitedN = splitedN
-        var powedDigit = 0.0
-
-        for digit in splitedN {
-            powedDigit += pow(digit, 2.0)
-        }
-        var newSplited = self.split(Int(powedDigit))
-        return newSplited
-    }
-
-    func isHappy(_ n: Int) -> Bool {
-        return split(n) == 1.0
+   func isHappy(_ n: Int) -> Bool {
+           var num = n
+           var next = 0
+           while num>=1{
+               next += Int(pow(Double(num % 10), 2))
+               num /= 10
+           }
+           if next == 1 { return true } // digit
+           return next == 4 ? false : isHappy(next)
     }
 }
+
