@@ -6,20 +6,20 @@
 
 
 
-### Theory
+### [Theory](https://github.com/dev-Lena/algorithm/tree/master/Theory)
 
 * Data structure
 * Basic Algorithm theories
 
-### LeetCode
+### [LeetCode](https://github.com/dev-Lena/algorithm/tree/master/LeetCode)
 
 * 레벨: Easy, Medium, Hard
 
-### Baekjoon
+### [Baekjoon](https://github.com/dev-Lena/algorithm/tree/master/Baekjoon)
 
 * 레벨:  Bronze,  Silver,  Gold, Platinum ... 
 
-### Programmers
+### [Programmers](https://github.com/dev-Lena/algorithm/tree/master/Programmers)
 
 * 레벨: Level 1 ~ Level 5
 
