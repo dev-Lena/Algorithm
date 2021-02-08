@@ -13,7 +13,7 @@
 
 ### LeetCode
 
-* Easy, Medium, Hard
+* 레벨: Easy, Medium, Hard
 
 ### Baekjoon
 
