@@ -14,8 +14,3 @@
 | 2016년 | level 1    | Swift     | [Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/2016%EB%85%84%20.md)     |
 | 가운데 글자 가져오기 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)     |
 | 평균 구하기 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)     |
-| 문자열을 정수로 바꾸기 | level 1    | Swift     |[Answer]()     |
-| 문자열 내림차순으로 배치하기  | level 1    | Swift     |[Answer]()     |
-| 내적 | level 1    | Swift     |[Answer]()     |
-| 하샤드 수 | level 1    | Swift     |[Answer]()     |
-| 이상한 문자 만들기 | level 1    | Swift     |[Answer]()     |
