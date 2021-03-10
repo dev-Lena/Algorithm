@@ -5,7 +5,7 @@ https://leetcode.com/problems/reverse-words-in-a-string/
 ⭐️ Medium
 
 * Result
- 
+
  Runtime: 72 ms, faster than 19.72% of Swift online submissions for Reverse Words in a String.
  Memory Usage: 15.9 MB, less than 10.56% of Swift online submissions for Reverse Words in a String.
 
@@ -51,7 +51,7 @@ Return *a string of the words in reverse order concatenated by a single space.*
  Output: "bob like even not does Alice"
 
  ### My Answer
- 
+
 ```swift
 import Foundation
 
@@ -127,7 +127,7 @@ return value: A new string made by removing from both ends of the receiver chara
 : Returns a new string made by removing from both ends of the receiver characters contained in a given character set.
 **Discussion**: Use whitespaces or whitespacesAndNewlines to remove whitespace around strings.
 
-3. [split(separator:) vs components(seperatedBy:)](https://stackoverflow.com/questions/46344649/componentseparatedby-versus-splitseparator
+3. [split(separator:) vs components(seperatedBy:)](https://stackoverflow.com/questions/46344649/componentseparatedby-versus-splitseparator)
 
 Performance aside, there is an important difference between split(separator:) and components(separatedBy:) in how they treat empty subsequences.
 
