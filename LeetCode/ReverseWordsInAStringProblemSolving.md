@@ -65,7 +65,7 @@ class Solution {
 
 ### Problem Soloving
 
-* Idea
+#### 🤔 Idea
 
 1. Divide 's' by whitespace(" ") using `components (separatedBy:)`.
 2. And then use `filter()` function to filter only the elements that is not " ".

@@ -1,10 +1,10 @@
 ### Algorithm - LeetCode
 
-언어: Swift
+Language: Swift
 
 ### LeetCode
 
-* 레벨: Easy, Medium, Hard
+* Level: Easy, Medium, Hard
 
 | Title               | Level | Language | Answer |
 | ------------------- | ------- | -------- |-------- |
