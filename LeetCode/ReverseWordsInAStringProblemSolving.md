@@ -67,12 +67,6 @@ class Solution {
 
 * Idea
 
-1. s를 components(separatedBy:)를 이용해서 whitespace" "를 기준으로 나눈다(쪼갠다)
-2. 1의 결과 배열에서 filter함수로 element가 ""이 아닌 element만 골라낸다
-3. 그 후 trimmingCharacters(in: .whitespaces) 메서드 사용해서 2의 결과 배열의 각 element의 whitespace 없앤다. 이 과정 이후 string 배열의 원소들에 포함되어있던 공백(whitespace)은 모두 없어진다
-4. 3의 결과 배열을 reversed()로 뒤집는다
-5. 그 후 4의 결과 배열을 joined(separator: " ")을 사용하여 각 element를 하나의 string으로 합칠 때 " "(한 칸의 공백)을 사이에 넣고 join 시킨다. 그러면 하나의 string 값으로 합쳐진 각 단어들 사이에 " " 한 칸의 공백이 포함되어 있다. 
-
 1. Divide 's' by whitespace(" ") using `components (separatedBy:)`.
 2. And then use `filter()` function to filter only the elements that is not " ".
 3. Then use `trimmingCharacters(in: .whitespaces)` function to remove the whitespaces of each element in the array. After that, all the whitespaces contained in the elements(each word) of the string array are lost.
