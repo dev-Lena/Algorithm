@@ -65,19 +65,17 @@ class Solution {
 
 ### Problem Soloving
 
-* The rules I found
+#### 🤔 The rules I found
 
 <img src= "https://user-images.githubusercontent.com/52783516/110338313-32acb480-806a-11eb-8ab4-6c9bba1bd1f4.png" width ="70%;" />
 
-처음에는 각 원소가 어떤 원소로 이동해야하는지를 생각하면서 로직을 짰는데 구현하다보니까
-각 인덱스에 어떤 원소가 들어가야하는지를 생각하며 로직을 짜야 구현하기 수월한 것 같다.
+At first, I focused on where to move each element. But when I wrote the code, it was the opposite. It is easy to implement only when I focus on which elements should be located in each index (location).
 
 ### ✍🏻
 
-`stride(from:to:by:)` : from 에서부터 by의 간격으로 to "미만"의 범위에서 반복 연산을 수행한다.
-`stride(from:through:by:)`: from 에서부터 by의 간격으로 through "이하"의 범위에서 반복 연산을 수행한다.
+`stride(from:to:by:)` : Repeat operations are performed at intervals of **'by value'** from **'from value'** to **'to value'** ("less than")
+`stride(from:through:by:)`: Repeat operations are performed at intervals of **'by value'** from **'from value'** to **'through value'** ("below")
 
-이 문제에서는 matrix 배열의 길이부터 0까지 역순으로 loop를 돌릴 때 stride 메서드를 사용했다.
-`stride(from:to:by:)` 는 미만이기 때문에 `to` 값에 `-1`을 입력했다.
+The stride method was used to reverse loop from the length of the matrix array to zero.
 
-참고: [Stride](https://developer.apple.com/documentation/swift/memorylayout/2429192-stride), [stride(from:to:by:)](https://developer.apple.com/documentation/swift/1641347-stride), [stride(from:through:by:)](https://developer.apple.com/documentation/swift/1641185-stride), [Swift 문서, Strideable 프로토콜 및 stride 사용법](https://0urtrees.tistory.com/144)
+Reference: [Stride](https://developer.apple.com/documentation/swift/memorylayout/2429192-stride), [stride(from:to:by:)](https://developer.apple.com/documentation/swift/1641347-stride), [stride(from:through:by:)](https://developer.apple.com/documentation/swift/1641185-stride), [Swift 문서, Strideable 프로토콜 및 stride 사용법](https://0urtrees.tistory.com/144)
