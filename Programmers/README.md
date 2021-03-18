@@ -19,3 +19,4 @@
 | 내적 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EB%82%B4%EC%A0%81%20.md)     |
 | 하샤드 수 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md)     |
 | 이상한 문자 만들기 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)     |
+| 나머지 한 점 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%9C%20%EC%A0%90.md)     |
