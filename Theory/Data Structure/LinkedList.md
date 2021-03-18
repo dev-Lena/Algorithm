@@ -1,7 +1,7 @@
 # LinkedList in Swift
 
 ``` swift
-class LinkedList<T> {
+class LinkedList {
     private var head: Node<String>?
     private var tail: Node<String>?
     
