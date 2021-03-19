@@ -63,7 +63,9 @@ class Solution {
 
 #### 🤔 Idea
 
-🔜 add note image
+<img src="https://user-images.githubusercontent.com/52783516/111783707-d49b8f00-88fd-11eb-9d53-e88b89649bbe.png" alt="image" width="70%;" />
+
+(In the image, temp == even and node == odd. )
 
 Given a linked list, swap every two adjacent nodes and return its head. You may not modify the values in the list’s nodes, only nodes itself may be changed.([reference](https://davidwho.me/%E7%AE%97%E6%B3%95/2019/08/06/Swift-LeetCode%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(24)-Swap-Nodes-in-Pairs/))
 
