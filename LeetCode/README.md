@@ -17,3 +17,4 @@ Language: Swift
 |  24. Swap Nodes in Pairs   |  Medium    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/SwapNodesInPairs.swift) , [Problem Solving](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/SwapNodesInPairsProblemSolving.md)   |
 |   49. Group Anagrams   |  Medium    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/GroupAnagrams.swift) , [Problem Solving](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/GroupAnagramsProblemSolving.md)   |
 |    189. Rotate Array   |  Medium    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/RotateArray.swift)   |
+|     605. Can Place Flowers   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/CanPlaceFlowers.swift)   |
