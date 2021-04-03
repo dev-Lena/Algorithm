@@ -18,3 +18,7 @@ Language: Swift
 |   49. Group Anagrams   |  Medium    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/GroupAnagrams.swift) , [Problem Solving](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/GroupAnagramsProblemSolving.md)   |
 |    189. Rotate Array   |  Medium    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/RotateArray.swift)   |
 |     605. Can Place Flowers   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/CanPlaceFlowers.swift)   |
+|   169. Majority Element   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/MajorityElement.swift)  |
+|    20. Valid Parentheses   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/ValidParentheses.swift)   |
+|     242. Valid Anagram   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/ValidAnagram.swift)   |
+
