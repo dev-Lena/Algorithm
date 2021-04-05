@@ -21,4 +21,6 @@ Language: Swift
 |   169. Majority Element   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/MajorityElement.swift)  |
 |    20. Valid Parentheses   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/ValidParentheses.swift)   |
 |     242. Valid Anagram   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/ValidAnagram.swift)   |
+|   674. Longest Continuous Increasing Subsequence   |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/LongestContinuousIncreasingSubsequence.swift)   |
+|   1160. Find Words That Can Be Formed by Characters    |  Easy    | Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/LeetCode/FindWordsThatCanBeFormedbyCharacters.swift)   |
 
