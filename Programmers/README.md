@@ -21,3 +21,4 @@
 | 이상한 문자 만들기 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)     |
 | 나머지 한 점 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%9C%20%EC%A0%90.md)     |
 | 프린터 | level 2    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%ED%94%84%EB%A6%B0%ED%84%B0.md)     |
+| 나누어 떨어지는 숫자 배열 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.md)     |
