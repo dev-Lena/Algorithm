@@ -9,3 +9,4 @@ Language: Swift
 | Title               | Level | Language | Answer |
 | ------------------- | ------- | -------- |-------- |
 | BinaryGap (Lession 1. Iterations)    | Painless |Swift    |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Codility/BinaryGap.swift)    |
+
